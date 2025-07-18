@@ -20,18 +20,18 @@ global.socialm = "GitHub: Mrhanstz"
 
 global.location = "AFRICA, TANZANIA, DODOMA"
 
-global.ownernumber = process.env.OWNER_NUMBER || '255686793064'  //Owner number
+global.ownernumber = process.env.OWNER_NUMBER || '255614195217'  //Owner number
 
-global.ownername = process.env.OWNER_NAME || 'Jvalt web Creator' //owner name
-global.botname = 'Jvalt web Creator' //name of the bot
+global.ownername = process.env.OWNER_NAME || 'HANSTZ-TECH' //owner name
+global.botname = 'HANSTZ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Jvalt web Creator'
+global.author = 'HANSTZ-TECH'
 
 //console view/theme
 global.themeemoji = '⚠️'
-global.wm = "Jvalt web Creator"
+global.wm = "HANSTZ-TECH"
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31'
